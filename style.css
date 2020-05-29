@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: thistle;
+}
+
+#container {
+    width: 960px;
+    height: 660px;
+    border: 3px solid #000;
+    margin: 25px auto 0px;
+}
+
+#container {
+    margin-bottom: 50px;
+}
+
+.gridClass {
+    background-color: whitesmoke;
+    border: solid black 2px;
+}
+
+#header {
+    margin: auto;
+    text-align: center;
+    
+}
+
+h1 {
+    padding: 10px;
+}
+
+button {
+    font-size: 20px;
+    padding: 15px;
+    background-color: bisque;
+}
